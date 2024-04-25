@@ -1,0 +1,30 @@
+{
+    "strong_materials": [
+        {
+            "name": "Steel",
+            "description": "Steel is an alloy made up of iron and carbon. The carbon strengthens the iron, making steel much stronger and more durable than pure iron."
+        },
+        {
+            "name": "Concrete",
+            "description": "Concrete is a mixture of cement, water, and aggregate (rock, sand, or gravel). The cement and water form a paste that binds the aggregate together. When it hardens, it forms a strong and durable material."
+        },
+        {
+            "name": "Stone",
+            "description": "Stone is a natural material formed from various minerals under heat and pressure over millions of years. The type of minerals and the way they are arranged contribute to the strength of the stone."
+        }
+    ],
+    "weak_materials": [
+        {
+            "name": "Wood",
+            "description": "Wood is made of cellulose fibers that are bound together by a substance called lignin. The arrangement of these fibers and the amount of lignin can affect the strength and durability of the wood."
+        },
+        {
+            "name": "Plastic",
+            "description": "Plastic is made from polymers, long chains of molecules that can be flexible or rigid. The type and arrangement of these polymers determine the strength and durability of the plastic."
+        },
+        {
+            "name": "Glass",
+            "description": "Glass is made by heating silica (sand) until it melts and then cooling it quickly. The resulting material is brittle because its molecular structure does not have a regular geometric pattern."
+        }
+    ]
+}
